@@ -1,0 +1,55 @@
+ body{
+ 	font-family: 'Open Sans';
+ 	background: #ecdfff;
+ }
+
+ /*LOGIN*/
+
+.header{
+	background: rgb(103, 58, 183);
+	height: 60px;
+	padding-left: 0px !important;
+	padding-right: : 0px !important;
+	float:bottom;
+}
+
+.kotak-login{
+	border: 2px solid #ecdfff;
+	border-radius: 10px;
+	background: #fff;
+	padding: 20px;
+	margin-top: 35%;
+}
+
+
+.inputan{
+	margin: 10px;
+}
+
+.inputan{
+}
+
+.kotak-login label{
+	margin: 10px 0;
+	font-size: 20px;
+	width: 35%;
+	/*margin-right: 20px;*/
+}
+	
+.btn-atas{
+	margin-top: 20px;
+}
+
+/*INDEX*/
+
+.nama-user{
+	padding: 15px;
+	margin-bottom: 20px;	
+	font-weight: 600;
+	background: #c59dff;
+}
+
+.left-konten{
+	background: #d7bcff;
+	padding-bottom: 40%;
+}

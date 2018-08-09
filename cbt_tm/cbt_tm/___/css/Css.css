@@ -1,0 +1,458 @@
+.konten{
+	width:100%;
+	height:auto;
+    background:#e3e3e3;
+}
+
+
+.head{
+    width:100%;
+    height:91px;
+    background-color:#ef5401;
+}
+
+.datang{
+    width:30%;
+    float:right;
+
+}
+
+.btn-ujian{
+	background-color: #999;
+	width: 200px;
+	height: 40px;
+	margin: 10px;
+	margin-top:50px;
+	line-height: 20px;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+padding-left:12px;
+padding-right:12px;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+.btn-ujian{
+	background-color: #336898;
+	width: 200px;
+	height: 40px;
+	margin: 10px;
+	margin-top:-40px;
+	float:right;
+	line-height: 20px;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+padding-left:12px;
+padding-right:12px;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+.nomor{
+    float:left;
+}
+
+.inputan{
+	margin: 10px;
+    float: right;
+}
+
+.kepala {
+    background-color: #fff;
+    padding-top: 7px;
+	padding-bottom:11px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:10px;
+	margin-bottom:2px;
+
+    list-style-type:none;
+
+}
+
+.lembarsoal {
+    background-color: #fff;
+    padding-top: 7px;
+	padding-bottom:11px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:3px;
+	margin-bottom:2px;
+    height:70%;
+
+}
+
+.main-soal {
+	margin-right:15px;
+	margin-top:10px;
+
+}
+
+/*Flex*/
+
+.flex-putih {
+    background-color: #fff;
+    width: 120px;
+    height: 40px;
+    margin-right: 0px;
+	margin-top:-32px;
+    line-height: 20px;
+    color: black;
+    font-size: 15px;
+	font-weight:bold;
+    text-align: center;
+	padding-left:12px;
+	padding-right:12px;
+	padding-top:10px;
+	padding-bottom:10px;
+	float:left;
+}
+
+.flex-abu {
+    background-color: #999;
+    width: 120px;
+    height: 40px;
+    margin-right: 0px;
+	margin-top:-32px;
+    line-height: 20px;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+	padding-left:12px;
+	padding-right:12px;
+	padding-top:10px;
+	padding-bottom:10px;
+	float:right;
+}
+
+.flex-biru {
+    background-color: #f96900;
+    width: 120px;
+    height: 40px;
+    margin-right: 0px;
+	margin-top:-32px;
+    line-height: 20px;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+	padding-left:12px;
+	padding-right:12px;
+	padding-top:10px;
+	padding-bottom:10px;
+	float:right;
+}
+
+.flex-biru-nomor {
+    background-color: #f96900;
+    width: 30px;
+    height: 30px;
+    margin-right: -10px;
+	margin-top:-30px;
+    line-height: 20px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+	padding-left:9px;
+	padding-right:12px;
+	padding-top:6px;
+	padding-bottom:10px;
+    float:left;
+
+}
+
+#flex-next {
+    background-color: #336898;
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    margin-top:-42px;
+    float:right;
+    line-height: 20px;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+	padding-left:12px;
+	padding-right:12px;
+	padding-top:10px;
+	padding-bottom:10px;
+
+}
+#flex-ragu {
+    background-color:#FC0;
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    line-height: 20px;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+	padding-left:12px;
+	padding-right:12px;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-decoration:none;
+}
+
+.labele {
+  display: block;
+  padding-top:6px;
+  padding-bottom:6px;
+  margin-top:-40px;
+  font-size: 16px;
+  background-color: #eaca08;
+  padding-left:10px;
+  border-radius: 2px;
+  cursor:pointer;
+  width:210px;
+  color:#FFF;
+
+  }
+
+#flex-prev {
+    background-color: #999;
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    margin-top:50px;
+    line-height: 20px;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+	padding-left:12px;
+	padding-right:12px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+/* end flex*/
+
+/*start of radio button */
+
+
+
+/*end of radio button */
+
+.kakisoal{
+    margin-top:-40px;
+}
+
+.soal{
+    padding:20px;
+    font-size:18px;
+    padding-top: 7px;
+	padding-bottom:11px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:3px;
+	margin-bottom:2px;
+    height:80%;
+    border:1px #e0e0e0 solid;
+    background:#f1f1f1;
+
+}
+
+.jawaban{
+    padding:20px;
+    margin-top:20px;
+
+}
+
+#fontlembarsoal{
+	margin-top:3px;
+	margin-left:15px;
+	margin-bottom:0px;
+	margin-right:15px;
+	background-color:#f0efef;
+	font-size:12px;
+	font-weight:bold;
+	height:45px;
+	left:40px;
+	padding-top:10px;
+	padding-bottom:3px;
+	}
+
+
+
+#hurufsoal{
+    padding-left: 30px;
+	padding-top:2px;
+	padding-bottom:2px;
+}
+
+
+.side-menu{
+	float:left;
+	width:20%;
+	background:white;
+}
+
+.box {
+  background: #fff;
+  margin: 0 0 30px;
+  border: solid 1px #e6e6e6;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 20px;
+  -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.right {
+    float: right;
+    width: 30%;
+	background-color: #5a1f00;
+			height:91px;
+		color:#FFFFFF;
+		font-size: 13px; font-style:normal; font-weight:normal;
+}
+
+.foto{
+    height:70px;
+}
+
+.user {
+		color:#FFFFFF;
+		font-size: 15px; font-style:normal; font-weight:bold;
+		top:-20px;
+
+}
+.log {
+		color:#3799c2;
+		font-size: 15px; font-style:normal; font-weight:bold;
+		top:-20px;
+}
+
+
+/*sidenav */
+
+.sidenav {
+    height: 100%;
+    width: 100%;
+	float:left;
+
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    padding-top: 10px;
+}
+
+.sidenav a {
+    padding: 6px 6px 6px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: grey;
+}
+
+
+@media screen and (max-height: 100px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+/*end of sidenav*/
+
+/*start of table*/
+
+#myInput {
+    background-image: url('/css/searchicon.png'); /* Add a search icon to input */
+    background-position: 10px 12px; /* Position the search icon */
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    width: 100%; /* Full-width */
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+}
+
+#myTable {
+    border-collapse: collapse; /* Collapse borders */
+    width: 100%; /* Full-width */
+    border: 1px solid #ddd; /* Add a grey border */
+    font-size: 18px; /* Increase font-size */
+	background:white;
+}
+
+.link-table{
+	color:black;
+}
+
+#myTable th, #myTable td {
+    text-align: left; /* Left-align text */
+    padding: 12px; /* Add padding */
+}
+
+#myTable tr {
+    /* Add a bottom border to all table rows */
+    border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header, #myTable tr:hover {
+    /* Add a grey background color to the table header and on hover */
+    background-color: #f1f1f1;
+}
+
+/*end of table*/
+
+
+.inputan{
+}
+
+.text-confirm{
+    height:20%;
+}
+
+.text-welcome{
+    float:right;
+    margin-right:60px;
+    margin-top:25px;
+}
+
+.button-login{
+    float:right;
+    width:72%;
+    margin-right:10px;
+}
+
+.button-submit{
+    float:right;
+    width:30%;
+
+}
+
+.label-login{
+    float:left;
+    width:25%;
+    padding: 5px;
+}
+
+.kiri{
+    float:left;
+    width:20%;
+    height:auto;
+}
+
+.kanan{
+    float:right;
+    width:20%;
+    height:auto;
+    background:#5a1f00;
+    color:white;
+}
+
+.pink{
+    width:84%;
+    height:30px;
+    background:#ffc2b4;
+    margin-left:130px;
+}
